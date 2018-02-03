@@ -3,7 +3,7 @@ This is a hangman command-line game based on Star Wars Episode VII & VIII.
 
 ## Constructor-Hangman uses the following file to run:
 ```
-hangman.js
+node hangman
 ```
 
 ## Technologies used:
