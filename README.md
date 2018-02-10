@@ -23,7 +23,7 @@ node hangman
 * Step Two: Pick your episode:
 	The categories are based on Episode VII & Episode VIII:  
 	* seven (The Force Awakens)
-	* eight (The Lase Jedi)
+	* eight (The Last Jedi)
 
 * Step Three: Start guessing letters of Star Wars Characters!
 
